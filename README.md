@@ -80,6 +80,5 @@ I use this process to understand requirements, design solutions, implement funct
 I'm continuously developing my technical skills through academic work, personal projects, and practical software development.
 
 📫 Connect With Me
-•	LinkedIn: Add your LinkedIn profile here
-•	GitHub: Rohail Chaudhry
+•	LinkedIn: https://www.linkedin.com/in/rohail-chaudhry-115577396
 
